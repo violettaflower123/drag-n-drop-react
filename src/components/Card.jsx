@@ -21,7 +21,7 @@ const Card = ({ card, onDragStart, source, board }) => {
         </div>
         <button className="card__edit-btn">
           <img
-            src="/icons/bx-dots-horizontal-rounded.svg"
+            src="./icons/bx-dots-horizontal-rounded.svg"
             alt="Иконка редактирования карточки"
           />
         </button>
