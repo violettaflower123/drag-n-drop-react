@@ -70,7 +70,7 @@ const App = () => {
               <h4 className="boards__title">Мои задачи</h4>
               <button className="boards__edit-btn">
                 <img
-                  src="./public/icons/bx-edit.svg"
+                  src="./icons/bx-edit.svg"
                   alt="Иконка редактировать"
                 />
               </button>
